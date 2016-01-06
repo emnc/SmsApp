@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SmsApp</string>
+    <string name="boton">Iniciar</string>
+    <string name="action_settings">Settings</string>
+    <string name="numero">numero</string>
+    <string name="texto">texto</string>
+    <string name="cantidad">cantidad</string>
+    <string name="pref_texto">Texto del mensaje</string>
+    <string name="pref_numero">Número del receptor</string>
+    <string name="pref_cantidad">Cantidad de mensajes</string>
+    <string name="pref_default_display_name1">0</string>
+    <string name="pref_default_display_name2">0</string>
+    <string name="pref_default_display_name3">0</string>
+</resources>
